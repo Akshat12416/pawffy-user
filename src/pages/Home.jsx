@@ -14,9 +14,8 @@ const steps = [
 ];
 
 const legal = [
-  { href: "/terms", tag: "For pet parents", title: "User Terms", c: "bg-[#d7f26a]" },
-  { href: "/terms", tag: "For care providers", title: "Vendor Terms", c: "bg-[#b9dfee]" },
-  { href: "/privacy-policy", tag: "For everyone", title: "Privacy Policy", c: "bg-[#ff9a85]" },
+  { href: "/terms", tag: "For everyone", title: "Terms & Conditions", c: "bg-[#d7f26a]" },
+  { href: "/privacy-policy", tag: "For everyone", title: "Privacy Policy", c: "bg-[#b9dfee]" },
 ];
 
 export default function Home() {
@@ -72,7 +71,7 @@ export default function Home() {
       </section>
 
       <footer className="bg-[#17231d] px-5 py-10 text-[#f7f3e8] sm:px-8 lg:px-12">
-        <div className="mx-auto flex max-w-[1344px] flex-col gap-8 border-t border-white/15 pt-8 sm:flex-row sm:items-end sm:justify-between"><div><Logo light/><p className="mt-4 max-w-sm text-sm leading-6 text-white/50">Care that feels like family—wherever the day takes you.</p></div><div className="flex flex-wrap gap-6 text-sm font-bold text-white/70"><Link to="/terms">User Terms</Link><Link to="/terms">Vendor Terms</Link><Link to="/privacy-policy">Privacy</Link></div></div>
+        <div className="mx-auto flex max-w-[1344px] flex-col gap-8 border-t border-white/15 pt-8 sm:flex-row sm:items-end sm:justify-between"><div><Logo light/><p className="mt-4 max-w-sm text-sm leading-6 text-white/50">Care that feels like family—wherever the day takes you.</p></div><div className="flex flex-wrap gap-6 text-sm font-bold text-white/70"><Link to="/terms">Terms & Conditions</Link><Link to="/privacy-policy">Privacy Policy</Link></div></div>
       </footer>
     </main>
   );
