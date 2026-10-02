@@ -1,7 +1,7 @@
 import React from 'react';
 import { motion } from 'framer-motion';
 
-const TermsUsers = () => {
+const Terms = () => {
   return (
     <div className="max-w-4xl mx-auto py-12 px-6">
       <motion.div 
@@ -334,4 +334,4 @@ const TermsUsers = () => {
   );
 };
 
-export default TermsUsers;
+export default Terms;
