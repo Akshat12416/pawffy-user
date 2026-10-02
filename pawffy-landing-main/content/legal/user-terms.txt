@@ -1,0 +1,239 @@
+Terms and Conditions 
+Effective September 29, 2026
+
+Welcome to The Pawffy. These Terms and Conditions (“Terms”) are a legally binding agreement between you (“you” or “User”) and The Pawffy (“The Pawffy,” “Company,” “we,” “us,” or “our”).
+
+These Terms set the rules for accessing or using The Pawffy’s services through our website, mobile application, or associated platforms (collectively, the "Platform"). 
+
+By using or accessing the Platform, you agree that you have read, understood, and accepted these Terms. If you disagree with these Terms, YOU SHOULD NOT USE THE PLATFORM.
+
+Links to be added of these sections 
+ 1. The Pawffy's Role
+ 2. Eligibility
+ 3. Account Registration
+ 4. User Content
+  4.1 License
+  4.2 Release
+ 5. Pet Health and Vaccination Requirements 
+ 6. Platform Fees & Charges
+  6.1 Platform Fee
+  6.2 Pricing Transparency
+  6.3 Non-Refundable
+  6.4 Taxes
+  6.5 Changes to Fees
+  7. Booking and Payments
+  8. Cancellation and Refunds
+  9. Emergency Protocols
+ 10. Third-Party Services, Links
+ 11. Account Security
+ 12. Privacy
+ 13. Risk Disclaimers
+ 14. User Conduct Standards
+ 15. Disclaimer of Warranties
+ 16. Limitation of Liability
+ 17. Indemnity
+ 18. Reviews and Feedback Policy
+ 19. Governing Law and Dispute Resolution
+ 20. Notice to Texas Residents
+ 21. Class Action Waiver
+ 22. General
+ 23. Copyright Infringement and Notice
+24. No Copyright License or Waiver
+25. The Pawffy’s Right to Content and Technology
+26. Modifications
+27. Severability
+28. Entire Agreement
+29. Contact Information
+
+
+1. The Pawffy's Role. 
+
+The Pawffy is a technology Platform operated by Ganapati Rani & Investments LLC, a Texas limited liability company doing business as ITDesks.co (“ITDesks”). The sole purpose of The Pawffy is to connect Pet Owners ("Users") with independent third-party service providers ("Vendors") offering pet care and related services. The Pawffy does not offer, control, supervise, or assume responsibility for any services provided by Vendors. All bookings, services, and interactions occur directly between Users and Vendors. 
+These Terms confirm that The Pawffy operates solely as a Platform and is not a contractual party to any service agreements made through it.
+
+2. Eligibility.
+
+By using or accessing The Pawffy, you confirm that you are at least 18 years old and are legally eligible to enter into binding agreements. 
+
+3. Account Registration.
+
+To create your account on The Pawffy, you must provide accurate and complete information. Creating an account on the Platform using false or misleading information may lead to account suspension or legal action.
+
+4. User Content.
+
+You may submit or upload content to the Platform, including but not limited to pet profiles, reviews, photos, videos, feedback, messages, and other material (“User Content”). By submitting such content, you hereby grant The Pawffy a perpetual, worldwide, non-exclusive, royalty-free, transferable, and sublicensable license to use, host, store, reproduce, modify, adapt, publish, translate, distribute, publicly display, and create derivative works from your User Content in connection with the operation, marketing, and improvement of the Platform and our services.
+
+4.1 License 
+You acknowledge and agree that The Pawffy may, at its sole discretion, use your User Content in public-facing materials, including but not limited to promotional campaigns, social media, advertising, testimonials, newsletters, blog articles, or case studies, with or without credit or attribution. If you do not wish to grant such promotional rights, you must notify us in writing at the contact information provided later in these Terms. By submitting User Content, you represent and warrant that:
+
+	•	You own all necessary rights to the content;
+
+	•	The content is accurate and not misleading;
+
+	•	The content usage does not violate any third-party rights;
+
+	•	The content follows these Terms and adheres to all governing laws.
+
+The Pawffy does not endorse any User Content and expressly disclaims any liability arising from it. We reserve the right (but not the obligation) to review, remove, edit, or disable any User Content, in whole or in part, at our discretion and without notice.
+
+4.2 Release
+By submitting User Content, you grant The Pawffy, ITDesks, and their affiliates the right to use, display, and distribute it in connection with the Platform’s operation, marketing, and promotional efforts. This includes public use across digital and print channels.
+To the extent allowed by law, you waive any claims against The Pawffy, ITDesks, and authorized third parties for such use, including claims involving privacy, defamation, or publicity rights.
+5. Pet Health and Vaccination Requirements.
+
+You are required as a User to ensure that your pet is healthy, well-behaved, and vaccinated before any service engagement. Vendors may require documentation or proof of vaccination prior to accepting a booking. 
+
+The Pawffy shall not be held liable for any illness, injury, or incident arising from inaccurate pet health disclosures or lack of vaccination compliance.
+
+6. Platform Fees & Charges.
+
+Use of certain features on The Pawffy may require payment of a platform usage fee. This fee supports the maintenance, development, and enhancement of our platform and services. Your use of the Platform confirms that you agree to the outlined conditions below:
+
+6.1 Platform Fee
+A non-refundable Platform usage fee of [insert here] may be charged per transaction. This fee will be clearly disclosed at the time of booking or transaction.
+
+6.2 Pricing Transparency
+All applicable platform fees will be displayed prior to confirming any transaction or booking. You will have the opportunity to review the total amount, including applicable service or vendor fees, before proceeding.
+
+6.3 Non-Refundable
+Platform usage fees in any case are non-refundable unless required by law, as they are charged for facilitating and maintaining the Platform service.
+
+6.4 Taxes
+Where applicable, taxes may be added to the Platform fee as required by applicable laws.
+
+6.5 Changes to Fees
+The Pawffy reserves the right to modify its Platform fee structure at any time. Any changes will be communicated through updates to these Terms or via platform notifications. Continued use of the Platform following such changes constitutes your acceptance of the new fee structure.
+
+7. Booking and Payments.
+
+All bookings must be made through the Platform. Off-platform payments or service arrangements are strictly prohibited. The Platform won't be held liable for any off-platform transactions and in case of any incidents.
+
+Payments are processed by third-party providers. You authorize all applicable service fees, processing charges, and payment holds necessary for transaction security. The Pawffy may implement temporary holds on funds to ensure service completion or resolve disputes.
+
+8. Cancellation and Refunds.
+
+Cancellations and refunds are governed by the Vendor’s individual cancellation policy, displayed on the Vendor’s profile and during checkout. The Pawffy is not responsible for enforcing Vendor policies unless legally required. Refunds may be subject to transaction delays, administrative reviews, and processing timeframes.
+
+9. Emergency Protocols. 
+
+In the event of a medical or safety emergency involving your pet, the Vendor will make reasonable efforts to contact you immediately. If you are unreachable, the Vendor may contact The Pawffy's emergency support team and, if necessary, arrange for emergency veterinary care. By using the Platform, you expressly authorize such action and agree to be fully responsible for any resulting veterinary or emergency service costs. The Pawffy does not assume responsibility for medical outcomes or decisions made during emergencies.
+
+10. Third-Party Services, Links.
+
+The Platform may provide access to or rely on services operated by third parties, including but not limited to payment processors, veterinary directories, mapping integrations, and verification partners. These services are not controlled by The Pawffy and you acknowledge and agree that:
+	•	Third-party tools or services are subjected to their own usage terms and data policies.
+	•	The Platform does not endorse, monitor, or guarantee the availability, accuracy, security, or performance of such third-party offerings.
+	•	Use of third-party tools is at your responsibility. The Platform is not responsible for their performance or outcomes, losses, damages, or any issues arising from your interactions with or reliance on third-party providers.
+
+11. Account Security.
+
+You must keep your login details confidential and notify us immediately in case of any unauthorized access or compromise of your account data.
+We reserve the right to suspend or terminate accounts at our discretion, particularly in cases of fraud, misrepresentation, or security threats.
+
+12. Privacy. 
+
+We collect, store, and process personal and business-related information in accordance with applicable privacy laws. Your use of the Platform signifies your consent to the collection and use of information as described. We do not sell, rent, or share your personal information, mobile phone number, or SMS opt-in data with any third parties or affiliates for marketing or promotional purposes.
+
+13. Risk Disclaimers.
+By using the Platform, you understand and accept that we're not responsible for:
+	•	Injury, loss, illness, or death of any pet, before, during, or after service. 
+	•	Emotional distress, economic losses, or reputational harm from interactions on the platform. 
+	•	Property damage caused by pets or Vendors. 
+	•	Misrepresentation or lack of qualifications by Vendors.
+14. User Conduct Standards.
+
+Users are expected to: 
+
+	•	Conduct professional and respectful behavior towards the Vendors and support staff.
+
+	•	Refrain from abusive, discriminatory, unlawful, or fraudulent conduct.
+
+	•	Avoid posting misleading, explicit, or offensive content on the Platform.
+
+	•	Provide accurate pet and contact information.
+
+	•	Upload copyrighted or proprietary content without permission.
+
+	•	Not attempt to damage, hack, or disrupt the Platform.
+
+	•	Not circumvent the Platform for off-app transactions.
+
+Violations of these conduct standards may result in account suspension, removal, or legal action.
+15. Disclaimer of Warranties.
+THE PLATFORM, INCLUDING ALL FEATURES AND SERVICES, IS OFFERED WITHOUT ANY GUARANTEES OR PROMISES OF ANY KIND. TO THE EXTENT PERMITTED BY LAW, ALL EXPRESS, IMPLIED, AND STATUTORY WARRANTIES ARE DISCLAIMED, INCLUDING ANY WARRANTIES OF PERFORMANCE, FITNESS, MERCHANTABILITY, OR NON-INFRINGEMENT.
+16. Limitation of Liability.
+
+To the fullest extent permitted under applicable law:
+
+	•	The Pawffy is not liable for the quality, safety, reliability, or outcome of services provided by Vendors.
+
+	•	We do not assume responsibility for pet injuries, illnesses, losses, or damages resulting from interactions arranged through the Platform.
+
+	•	In no case shall The Pawffy’s total cumulative liability to you exceed the total amount of fees, if any, that you paid to The Pawffy in the twelve (12) months prior to the event that gave rise to the claim.
+
+17. Indemnity.
+
+You agree to indemnify, defend, and hold harmless The Pawffy, its officers, affiliates, and employees from any claims, losses, damages, liabilities, penalties, and costs (including reasonable legal fees) resulting from your use of the Platform, your breach of these Terms, or any violation of law or third-party rights.
+
+18. Reviews and Feedback Policy.
+
+You may submit ratings and reviews of Vendors after a completed service. 
+Submitted content must be truthful, respectful, and drawn from your actual experience. The Pawffy reserves the right to moderate, remove, or reject any review that violates our standards or appears misleading or defamatory.
+
+19. Governing Law and Dispute Resolution.
+These terms shall be governed by and construed in accordance with the laws of the State of Texas, without regard to any conflict of law provisions. Any dispute or claim shall be resolved through binding arbitration in Harris County, Texas, administered by a recognized arbitration service. Small claims actions may proceed where permitted. By agreeing to these Terms, you waive the right to a jury trial or to participate in any class action proceedings.
+
+20. Notice to Texas Residents.
+
+If you are located in the State of Texas, you acknowledge and agree that all services are deemed to occur within Texas, and any legal relationship established under these Terms is subject exclusively to Texas law.
+21. Class Action Waiver.
+You agree to resolve any dispute with The Pawffy or ITDesks solely on an individual basis. You agree not to pursue or participate in any class, group, or representative action, whether in court or arbitration. Any claim must be pursued separately and may not be combined with those of other individuals.
+22. General.
+The Pawffy may, at its discretion, help facilitate communication or assist with dispute resolution between Users and Vendors. However, The Pawffy is under no obligation to mediate, issue refunds, or enforce Vendor policies unless required by applicable law.
+
+23. Copyright Infringement and Notice.
+
+The Pawffy respects the proprietary rights of others and expects all users to do the same. If you believe your copyrighted material has been used on the Platform without permission, you must submit a written notice that includes:
+
+	•	Your full name;
+
+	•	Contact information;
+
+	•	A description of the copyrighted work in question;
+
+	•	A clear reference to the allegedly infringing content and its location on the Platform;
+
+	•	A statement that you believe with certainty the use is unauthorized;
+
+	•	A legally binding declaration, under penalty of perjury, confirming the accuracy of your claim and your authority to represent the owner of the rights;
+
+	•	A physical or electronic signature from you or your authorized representative.
+
+To send DMCA Notice, contact us at:
+Email Address
+The Pawffy complies with the DMCA and responds in a timely manner to verified takedown requests.
+24. No Copyright License or Waiver.
+Nothing in these Terms shall be interpreted as granting any license or right to use any proprietary of The Pawffy or its licensors except as expressly provided. Any unauthorized use of copyrighted materials may result in suspension or termination of access to the Platform, and may be prosecuted under applicable law.
+25. The Pawffy’s Right to Content and Technology. 
+
+All content, branding elements, features, and technology made available through The Pawffy are the sole property of The Pawffy and are protected under applicable laws. Use of the Platform’s features, code, or content without our written approval, including copying, altering, or reverse engineering is strictly prohibited
+
+26. Modifications.
+
+The Pawffy reserves the right to modify these Terms periodically. All updates will be posted with the revised effective date. Material changes will be communicated via email or in-app notice. By continuing to use the Platform, you acknowledge and accept the modified Terms.
+
+27. Severability.
+
+If any provision of these Terms is determined to be invalid, illegal, or unenforceable under applicable law, that provision shall be modified or limited to the extent necessary to make it enforceable. The remainder of these Terms will remain valid and in full effect.
+
+28. Entire Agreement.
+
+These Terms, along with our Privacy Policy, constitute the entire agreement between you and The Pawffy regarding your use of the Platform. No verbal or external communication alters or supersedes these Terms unless executed in writing and signed by both parties.
+
+29. Contact Information.
+For legal notices or questions, contact us at:
+(Phone Number) legal@thepawffyapp.com
+Address: 5900 Balcones Drive 
+STE Austin, TX 78731
+
+
