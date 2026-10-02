@@ -34,12 +34,7 @@ function App() {
               path="/"
               element={
                 <>
-                  <Header />
-                  <main className="flex-grow">
-                    <Home />
-                    <Carousel />
-                  </main>
-                  <Footer />
+                  <Home />
                 </>
               }
             />
