@@ -1,14 +1,9 @@
 import React from 'react';
-import { SiteHeader } from '../components/home/site-header';
-import { SiteFooter } from '../components/home/SiteFooter';
 
 const PrivacyPolicy = () => {
   return (
-    <main className="min-h-screen bg-[#f7f3e8] flex flex-col">
-      <div className="pt-8">
-        <SiteHeader />
-      </div>
-      <div className="max-w-4xl mx-auto px-5 py-24 text-[#17231d] flex-grow">
+    <div className="min-h-screen bg-[#f7f3e8] py-14 px-5 sm:px-8 text-[#17231d]">
+      <div className="max-w-4xl mx-auto">
       <h1 className="text-4xl font-bold mb-4">Privacy Policy</h1>
       <p className="font-bold mb-8">Effective Date: October 1, 2026</p>
       
@@ -133,8 +128,7 @@ const PrivacyPolicy = () => {
         </p>
       </div>
       </div>
-      <SiteFooter />
-    </main>
+    </div>
   );
 };
 
