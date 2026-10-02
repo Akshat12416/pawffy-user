@@ -50,13 +50,9 @@ const Footer = () => {
         <div className="grid grid-cols-1 lg:grid-cols-3 gap-12 lg:gap-16">
           {/* Brand Section */}
           <motion.div variants={itemVariants} className="space-y-6 text-center lg:text-left">
-            <h2 className="text-3xl font-bold text-white tracking-wide">PAWRESCUE</h2>
+            <h2 className="text-3xl font-bold text-white tracking-wide">THEPAWFFY</h2>
             <p className="text-gray-300 text-base leading-relaxed max-w-sm mx-auto lg:mx-0">
-              Morbi cursus porttitor enim lobortis molestie.
-              <br />
-              Duis gravida turpis dui, eget bibendum
-              <br />
-              magna congue nec.
+              A pet services and community platform operated by Ganapati & Rani Investment LLC dba ThePawffy.
             </p>
             <div className="space-y-3">
               <motion.div 
@@ -65,15 +61,7 @@ const Footer = () => {
                 whileHover="hover"
               >
                 <Mail size={18} className="text-gray-400" />
-                <span className="text-base">Healthon@gmail.com</span>
-              </motion.div>
-              <motion.div 
-                className="flex items-center justify-center lg:justify-start space-x-3 text-gray-300"
-                variants={linkVariants}
-                whileHover="hover"
-              >
-                <Phone size={18} className="text-gray-400" />
-                <span className="text-base">(+19) 556-0114</span>
+                <span className="text-base">Support: support@thepawffy.com</span>
               </motion.div>
             </div>
           </motion.div>
@@ -170,7 +158,7 @@ const Footer = () => {
 
           {/* Copyright */}
           <p className="text-gray-400 text-base text-center order-last lg:order-none">
-             © PAWRESCUE 2025. All Rights Reserved
+             © 2026 Ganapati & Rani Investment LLC dba ThePawffy. All Rights Reserved.
           </p>
 
           {/* Payment Icons */}
