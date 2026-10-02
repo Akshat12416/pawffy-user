@@ -109,8 +109,7 @@ const Footer = () => {
               {[
                 { name: 'Contact', path: '/contact' },
                 { name: 'FAQs', path: '/faqs' },
-                { name: 'Terms (Users)', path: '/terms-users' },
-                { name: 'Terms (Vendors)', path: '/terms-vendors' },
+                { name: 'Terms and Conditions', path: '/terms' },
                 { name: 'Privacy Policy', path: '/privacy-policy' }
               ].map((item, index) => (
                 <motion.div

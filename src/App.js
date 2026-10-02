@@ -10,8 +10,7 @@ import Footer from "./components/Footer";
 import LoginSignup from "./pages/LoginSignup";
 import Error from "./pages/Error";
 import ReportLostPetForm from "./components/lostandfound/ReportLostPetForm";
-import TermsUsers from "./pages/TermsUsers";
-import TermsVendors from "./pages/TermsVendors";
+import Terms from "./pages/Terms";
 import PrivacyPolicy from "./pages/PrivacyPolicy";
 import { AuthProvider, useAuth } from "./context/AuthContext";
 import "./App.css";
@@ -100,25 +99,12 @@ function App() {
             />
 
             <Route
-              path="/terms-users"
+              path="/terms"
               element={
                 <>
                   <Header />
                   <main className="flex-grow">
-                    <TermsUsers />
-                  </main>
-                  <Footer />
-                </>
-              }
-            />
-
-            <Route
-              path="/terms-vendors"
-              element={
-                <>
-                  <Header />
-                  <main className="flex-grow">
-                    <TermsVendors />
+                    <Terms />
                   </main>
                   <Footer />
                 </>
