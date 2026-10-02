@@ -1,7 +1,7 @@
 import React from "react";
 import { motion } from "framer-motion";
 import { Link } from "react-router-dom";
-import { ArrowIcon, Logo, PawMark } from "../components/home/brand";
+import { ArrowIcon, PawMark } from "../components/home/brand";
 import { HeroScene } from "../components/home/hero-scene";
 import { SiteHeader } from "../components/home/site-header";
 import { SiteFooter } from "../components/home/SiteFooter";
