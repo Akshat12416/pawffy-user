@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from "react";
 import { MapPin, Menu, X } from "lucide-react";
 import { useNavigate } from "react-router-dom";
+import { Logo } from "./home/brand";
 
 const Header = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
@@ -35,11 +36,7 @@ const Header = () => {
         <div className="max-w-7xl mx-auto flex items-center justify-between">
           {/* Logo */}
           <div className="flex items-center flex-shrink-0">
-            <span className="text-lg sm:text-xl md:text-2xl font-extrabold cursor-pointer"
-              onClick={() => navigate("/")}>
-              <span className="text-orange-500">THE</span>
-              <span className="text-slate-800">PAWFFY</span>
-            </span>
+            <Logo />
           </div>
 
           {/* Desktop Navigation */}
@@ -120,16 +117,9 @@ const Header = () => {
         <div className="p-6 h-full bg-white overflow-y-auto">
           {/* Mobile Menu Header */}
           <div className="flex items-center justify-between mb-8">
-            <span
-              className="text-xl font-extrabold cursor-pointer"
-              onClick={() => {
-                navigate("/");
-                toggleMenu();
-              }}
-            >
-              <span className="text-orange-500">THE</span>
-              <span className="text-slate-800">PAWFFY</span>
-            </span>
+            <div onClick={toggleMenu}>
+              <Logo />
+            </div>
             <button
               onClick={toggleMenu}
               className="p-1 text-gray-700 hover:text-orange-500 transition-colors duration-200"
