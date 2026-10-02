@@ -330,6 +330,7 @@ const Terms = () => {
           Privacy Policy: <a href="https://www.thepawffy.com/privacy-policy" className="text-blue-600 underline">https://www.thepawffy.com/privacy-policy</a>
         </p>
       </div>
+      </div>
       <SiteFooter />
     </main>
   );
