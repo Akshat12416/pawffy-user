@@ -2,6 +2,7 @@ import React from 'react';
 import { motion } from 'framer-motion';
 import { Facebook, Twitter, Instagram, Mail } from 'lucide-react';
 import { Link } from 'react-router-dom';
+import { Logo } from './home/brand';
 
 const Footer = () => {
   const containerVariants = {
@@ -26,7 +27,7 @@ const Footer = () => {
 
   const linkVariants = {
     hover: {
-      scale: 1.05,
+      scale: 1.04,
       transition: { duration: 0.2 }
     }
   };
@@ -41,7 +42,7 @@ const Footer = () => {
 
   return (
     <motion.footer 
-      className="bg-slate-900 text-white py-16 px-6"
+      className="bg-[#17231d] text-[#f7f3e8] py-16 px-6 border-t border-white/10 mt-auto"
       variants={containerVariants}
       initial="hidden"
       animate="visible"
@@ -50,25 +51,28 @@ const Footer = () => {
         <div className="grid grid-cols-1 lg:grid-cols-3 gap-12 lg:gap-16">
           {/* Brand Section */}
           <motion.div variants={itemVariants} className="space-y-6 text-center lg:text-left">
-            <h2 className="text-3xl font-bold text-white tracking-wide">THEPAWFFY</h2>
-            <p className="text-gray-300 text-base leading-relaxed max-w-sm mx-auto lg:mx-0">
+            <div className="flex justify-center lg:justify-start">
+              <Logo light />
+            </div>
+            <p className="text-white/70 text-base leading-relaxed max-w-sm mx-auto lg:mx-0">
               A pet services and community platform operated by Ganapati & Rani Investment LLC dba ThePawffy.
             </p>
             <div className="space-y-3">
-              <motion.div 
-                className="flex items-center justify-center lg:justify-start space-x-3 text-gray-300"
+              <motion.a 
+                href="mailto:support@thepawffy.com"
+                className="inline-flex items-center justify-center lg:justify-start space-x-3 text-white/80 hover:text-white transition-colors"
                 variants={linkVariants}
                 whileHover="hover"
               >
-                <Mail size={18} className="text-gray-400" />
-                <span className="text-base">Support: support@thepawffy.com</span>
-              </motion.div>
+                <Mail size={18} className="text-[#d7f26a]" />
+                <span className="text-base font-medium">Support: support@thepawffy.com</span>
+              </motion.a>
             </div>
           </motion.div>
 
           {/* My Account Section */}
           <motion.div variants={itemVariants} className="space-y-6 text-center lg:text-left">
-            <h3 className="text-xl font-semibold text-white">My Account</h3>
+            <h3 className="text-xl font-bold text-white tracking-tight">My Account</h3>
             <div className="space-y-3">
               {[
                 'My Account',
@@ -80,7 +84,7 @@ const Footer = () => {
                 <motion.a
                   key={index}
                   href="#"
-                  className="block text-gray-300 text-base hover:text-white transition-colors duration-200"
+                  className="block text-white/70 text-base hover:text-[#d7f26a] transition-colors duration-200"
                   variants={linkVariants}
                   whileHover="hover"
                 >
@@ -92,7 +96,7 @@ const Footer = () => {
 
           {/* Contact Us Section */}
           <motion.div variants={itemVariants} className="space-y-6 text-center lg:text-left">
-            <h3 className="text-xl font-semibold text-white">Contact Us</h3>
+            <h3 className="text-xl font-bold text-white tracking-tight">Contact Us</h3>
             <div className="space-y-3">
               {[
                 { name: 'Contact', path: '/contact' },
@@ -107,7 +111,7 @@ const Footer = () => {
                 >
                   <Link
                     to={item.path}
-                    className="block text-gray-300 text-base hover:text-white transition-colors duration-200"
+                    className="block text-white/70 text-base hover:text-[#d7f26a] transition-colors duration-200"
                   >
                     {item.name}
                   </Link>
@@ -120,7 +124,7 @@ const Footer = () => {
         {/* Divider Line */}
         <motion.div 
           variants={itemVariants}
-          className="mt-16 mb-8 border-t border-gray-700"
+          className="mt-16 mb-8 border-t border-white/15"
         />
 
         {/* Bottom Section */}
@@ -131,33 +135,42 @@ const Footer = () => {
           {/* Social Icons */}
           <div className="flex space-x-6">
             <motion.a
-              href="#"
-              className="text-gray-400 hover:text-blue-400 transition-colors duration-200"
+              href="https://facebook.com"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-white/60 hover:text-[#d7f26a] transition-colors duration-200"
               variants={socialIconVariants}
               whileHover="hover"
+              aria-label="Facebook"
             >
-              <Facebook size={24} />
+              <Facebook size={22} />
             </motion.a>
             <motion.a
-              href="#"
-              className="text-gray-400 hover:text-blue-300 transition-colors duration-200"
+              href="https://twitter.com"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-white/60 hover:text-[#d7f26a] transition-colors duration-200"
               variants={socialIconVariants}
               whileHover="hover"
+              aria-label="Twitter"
             >
-              <Twitter size={24} />
+              <Twitter size={22} />
             </motion.a>
             <motion.a
-              href="#"
-              className="text-gray-400 hover:text-pink-400 transition-colors duration-200"
+              href="https://instagram.com"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-white/60 hover:text-[#d7f26a] transition-colors duration-200"
               variants={socialIconVariants}
               whileHover="hover"
+              aria-label="Instagram"
             >
-              <Instagram size={24} />
+              <Instagram size={22} />
             </motion.a>
           </div>
 
           {/* Copyright */}
-          <p className="text-gray-400 text-base text-center order-last lg:order-none">
+          <p className="text-white/50 text-sm sm:text-base text-center order-last lg:order-none">
              © 2026 Ganapati & Rani Investment LLC dba ThePawffy. All Rights Reserved.
           </p>
 
@@ -165,7 +178,7 @@ const Footer = () => {
           <div className="flex items-center space-x-3 order-first lg:order-last">
             {/* PayPal */}
             <motion.div
-              className="bg-white p-2.5 rounded-md shadow-sm min-w-[60px] h-10 flex items-center justify-center"
+              className="bg-white px-2.5 py-1.5 rounded-md shadow-sm min-w-[56px] h-9 flex items-center justify-center"
               variants={linkVariants}
               whileHover="hover"
             >
@@ -175,7 +188,7 @@ const Footer = () => {
                 className="h-4 w-auto"
                 onError={(e) => {
                   e.target.style.display = 'none';
-                  e.target.nextSibling.style.display = 'block';
+                  if (e.target.nextSibling) e.target.nextSibling.style.display = 'block';
                 }}
               />
               <span className="text-blue-600 font-bold text-xs hidden">PayPal</span>
@@ -183,7 +196,7 @@ const Footer = () => {
             
             {/* Visa */}
             <motion.div
-              className="bg-white p-2.5 rounded-md shadow-sm min-w-[60px] h-10 flex items-center justify-center"
+              className="bg-white px-2.5 py-1.5 rounded-md shadow-sm min-w-[56px] h-9 flex items-center justify-center"
               variants={linkVariants}
               whileHover="hover"
             > 
@@ -198,30 +211,17 @@ const Footer = () => {
             
             {/* Mastercard */}
             <motion.div
-              className="bg-white p-2.5 rounded-md shadow-sm min-w-[60px] h-10 flex items-center justify-center"
+              className="bg-white px-2.5 py-1.5 rounded-md shadow-sm min-w-[56px] h-9 flex items-center justify-center"
               variants={linkVariants}
               whileHover="hover"
             >
-              <svg className="h-6 w-auto" viewBox="0 0 48 32" fill="none">
+              <svg className="h-5 w-auto" viewBox="0 0 48 32" fill="none">
                 <rect width="48" height="32" fill="white"/>
                 <circle cx="18" cy="16" r="10" fill="#EB001B"/>
                 <circle cx="30" cy="16" r="10" fill="#F79E1B"/>
                 <path d="M24 8.5C21.8 10.2 20.5 12.9 20.5 16C20.5 19.1 21.8 21.8 24 23.5C26.2 21.8 27.5 19.1 27.5 16C27.5 12.9 26.2 10.2 24 8.5Z" fill="#FF5F00"/>
               </svg>
             </motion.div>
-            
-            {/* Secured Payments Badge */}
-            {/* <motion.div
-              className="bg-blue-500 text-white text-xs px-3 py-2.5 rounded-md font-medium"
-              variants={linkVariants}
-              whileHover="hover"
-            >
-              <div className="text-center leading-tight">
-                SECURED
-                <br />
-                PAYMENTS
-              </div>
-            </motion.div> */}
           </div>
         </motion.div>
       </div>
