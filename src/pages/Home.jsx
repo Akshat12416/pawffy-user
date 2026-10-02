@@ -4,6 +4,7 @@ import { Link } from "react-router-dom";
 import { ArrowIcon, Logo, PawMark } from "../components/home/brand";
 import { HeroScene } from "../components/home/hero-scene";
 import { SiteHeader } from "../components/home/site-header";
+import { SiteFooter } from "../components/home/SiteFooter";
 
 const reveal = { initial: { y: 24 }, whileInView: { y: 0 }, viewport: { once: true, margin: "-80px" }, transition: { duration: .65 } };
 
@@ -70,9 +71,7 @@ export default function Home() {
         </div>
       </section>
 
-      <footer className="bg-[#17231d] px-5 py-10 text-[#f7f3e8] sm:px-8 lg:px-12">
-        <div className="mx-auto flex max-w-[1344px] flex-col gap-8 border-t border-white/15 pt-8 sm:flex-row sm:items-end sm:justify-between"><div><Logo light/><p className="mt-4 max-w-sm text-sm leading-6 text-white/50">Care that feels like family—wherever the day takes you.</p></div><div className="flex flex-wrap gap-6 text-sm font-bold text-white/70"><Link to="/terms">Terms & Conditions</Link><Link to="/privacy-policy">Privacy Policy</Link></div></div>
-      </footer>
+      <SiteFooter />
     </main>
   );
 }
