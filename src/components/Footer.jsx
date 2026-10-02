@@ -1,6 +1,6 @@
 import React from 'react';
 import { motion } from 'framer-motion';
-import { Facebook, Twitter, Instagram, Mail, Phone } from 'lucide-react';
+import { Facebook, Twitter, Instagram, Mail } from 'lucide-react';
 import { Link } from 'react-router-dom';
 
 const Footer = () => {
