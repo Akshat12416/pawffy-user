@@ -10,197 +10,324 @@ const TermsVendors = () => {
         transition={{ duration: 0.5 }}
         className="bg-white rounded-xl shadow-lg p-8"
       >
-        <h1 className="text-3xl font-bold mb-8 text-slate-800 border-b pb-4">Terms Vendors</h1>
-        <div className="prose max-w-none text-left">
-          <p className="mb-4 text-gray-700 leading-relaxed">Terms and Conditions</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">Effective [Insert Date]</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">Welcome to ThePawffy. These Terms and Conditions (“Terms”) are a legally binding agreement between you (“you” or “Vendor”) and ThePawffy (“ThePawffy,” “Company,” “we,” “us,” or “our”). These Terms set the rules for using the Platform to offer pet-related services to users (&quot;Users&quot;) via our website, mobile app, or related systems (collectively, the “Platform”).</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">SECTION 18 OF THESE TERMS CONTAINS AN ARBITRATION CLAUSE AFFECTING YOUR LEGAL RIGHTS. PLEASE READ IT CAREFULLY.</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">Please review our Privacy Policy which also governs your use of our Platform along with these Terms.</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">By continuing to use or access this Platform, you agree that you have read, understood, and accepted these Terms. If you disagree with these Terms, YOU SHOULD NOT USE THE PLATFORM.</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">•	ThePawffy&#39;s Role</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">•	Eligibility</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">•	Account Registration</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">•	Account Verification</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">•	Vendor Content</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">•	Platform Fee and Withdrawal Terms</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">•	Vaccination Requirements and Pet Refusal</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">•	Cancellations</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">•	Emergency Protocol</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">•	Third-Party Services, Links.</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">•	Account Security</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">•	Privacy</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">•	Vendor Representation and Warranties</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">•	Disclaimer of Warranties</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">•	Limitation of Liability</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">•	Indemnity</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">•	Review and Feedback Policy</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">•	Governing Law and Dispute Resolution</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">•	Texas Vendor Compliance Notice</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">•	 Class Action Waiver</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">•	General</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">•	The Pawffy’s Right to Content and Technology</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">•	 Independent Vendor Disclaimer</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">•	 Copyright Infringement and Notice</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">•	 No Copyright Licence or Waiver</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">•	 Modifications</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">•	 Severability</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">•	 Entire Agreement</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">•	 Contact Information</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">1. ThePawffy&#39;s Role.</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">ThePawffy is a technology Platform operated by Ganapati Rani &amp; Investments LLC, a Texas limited liability company doing business as ITDesks.co (“ITDesks”). The Platform’s sole purpose is to connect independent Vendors (pet service providers such as training, walking, grooming, veterinary, etc) with individuals seeking pet-related services.</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">Any service booked through our Platform is fulfilled solely by third-party vendors who are not employees, agents, or affiliates of ThePawffy.</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">ThePawffy does not supervise, manage, employ, or control the vendors or the services they provide. As a Vendor offering services through the Platform, you confirm that you are operating as an independent contractor. These Terms do not create, and shall not be interpreted as creating, any employment, agency, partnership, joint venture, or other legal affiliation between you and ThePawffy or ITDesks. You are not authorized to represent or act on behalf of ThePawffy or ITDesks in any capacity and you may not bind the company in any form.</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">2. Eligibility.</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">By using or accessing ThePawffy, you confirm that you are at least 18 years old and are legally eligible to enter into binding agreements.</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">Please Note: Individuals previously banned or removed from ThePawffy may not register or offer services.</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">3. Account Registration.</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">All Vendors must register using accurate and current information.</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">4. Account Verification.</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">To access and use ThePawffy Platform as a vendor, you must complete an identity and background verification process conducted by our third-party provider. While ThePawffy does not charge any fee for this service, a non-refundable verification fee may be required by the third-party provider, which is collected by them directly at the time of registration. By registering as a vendor, you agree to this verification requirement and any applicable third-party fees.</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">Please Note. ThePawffy reserves the right to deny access or suspend accounts in cases of:</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">•	Failed verification,</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">•	Suspected fraud, or</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">•	Inaccurate disclosures.</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">5. Vendor Content.</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">We may require or allow you to submit or upload certain materials to the Platform, including but not limited to text, images, service descriptions, pricing details, policies, and other content related to your offerings (‘Vendor Content’). Submission of the Vendor Content confirms that:</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">•	The information is correct,</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">•	It does not violate any laws,</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">•	You hold all necessary rights and permissions required to use and share it on the Platform.</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">5.1 Service Listings and Engagements.</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">As a Vendor, you must keep your listings accurate and updated, including details about pricing, availability, policies, and the scope of services you offer. When you accept a booking, you must agree to deliver the services as described.</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">5.2 Vendor Conduct and Safety.</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">As a vendor, you&#39;re expected to:</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">•	Conduct services offered on the Platform in a professional, safe, and respectful manner.</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">•	Avoid any abusive, dishonest, discriminatory, and against the law actions.</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">•	Abide by your posted policies and service terms.</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">•	Prioritize all pets safety and well-being in your care.</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">•	Not engage in off-platform transactions or unauthorized solicitations. (The Platform won&#39;t be held liable for any off-platform transactions and in incidents.)</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">Violations regarding these may result in account suspension or legal action.</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">5.3 License to Use.</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">By submitting Vendor Content, you grant ThePawffy and its affiliates a non-exclusive, royalty-free, worldwide license to use, display, host, modify (for formatting purposes), reproduce, and distribute such content solely in connection with the operation, promotion, or improvement of the Platform and its services. This license remains in effect until your content is removed from the Platform, except where copies have already been previously used or lawfully archieved.</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">5.4 Content Monitoring and Removal.</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">ThePawffy reserves the right but is not obligated to monitor, screen, edit, or remove any Vendor Content at its sole discretion if it violates these Terms, appears unlawful, or undermines the safety, integrity, or reputation of the Platform.</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">5.5 No Endorsement.</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">You understand and agree that your presence on the Platform does not imply any endorsement, verification, or guarantee by ThePawffy or ITDesks. Your listing, reviews, or visibility on the Platform do not represent approval or certification by ThePawffy, and you remain solely responsible for your services, qualifications, and interactions with Users.</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">5.6 Release.</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">By submitting content including your name, image, voice, likeness, or performance, you grant ThePawffy, ITDesks, and their affiliates the right to use it for Platform-related marketing, promotion, and operations. This includes public use across digital and print channels.</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">To the extent allowed by law, you hereby waive any claims against ThePawffy, ITDesks, and authorized third parties for such use, including claims involving privacy, defamation, or publicity rights.</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">6. Platform Fees and Withdrawal Terms</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">6.1 Subscription Plans.</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">Vendors must subscribe to one of the following monthly plans to access payment withdrawal features on the Platform:</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">Single-Role Partners: Vendors offering only one type of service (such as grooming or boarding) may choose from the following two options:</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">Partner Single Basic – $19.99/month</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">•	Maximum of two (2) withdrawals per month.</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">•	Minimum withdrawal amount: $200.</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">Partner Single Premium – $29.99/month</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">•	Unlimited withdrawals per month.</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">•	Minimum withdrawal amount: $150.</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">Multi-Role Partners: Vendors offering more than one type of service (such as grooming and boarding) must subscribe to the following plan:</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">Partner Multi Premium – $19.99/month per service role</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">•	Unlimited withdrawals per month.</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">•	Minimum withdrawal amount: $150.</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">6.2 Vendor Withdrawals.</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">•	Vendors may request a withdrawal of their earnings through the platform’s dashboard.</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">•	ThePawffy will acknowledge and approve such requests within 24 hours.</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">•	Payouts will be processed and credited to the Vendor’s chosen payment method within seven (7) calendar days of approval. Transaction and processing fees may apply.</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">•	This timeline applies uniformly across all subscription plans and is part of the Platform’s standard payout process.</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">•	Applicable transaction fees may be deducted. You are fully responsible for any issues arising from inaccurate or outdated payment information provided on the Platform.</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">ThePawffy has the right to do modifications in its fee structure at any time, with advance prior notice.</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">Vendors are solely responsible for managing and reporting their own income, as well as complying with all applicable tax obligations</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">7. Vaccination Proof and Pet Refusal.</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">You may require Pet Owners to provide proof of vaccinations before service. If a pet appears aggressive, unwell, or unfit for care, you may refuse service in accordance with your stated policy. ThePawffy is not liable for any incidents resulting from pet health issues or misrepresentations.</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">8. Cancellations.</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">Upon any cancellations, a Vendor should notify the Users immediately. Repeated cancellations negatively impact your account status, including lowered visibility or even account termination.</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">ThePawffy may intervene in disputes but is not obligated to mediate.</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">9. Emergency Protocol.</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">In the event of a pet emergency, you must:</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">•	Attempt to contact the Pet Owner immediately;</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">•	If unreachable, contact ThePawffy’s Help Center;</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">•	 And seek veterinary care if necessary.</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">Pet Owners (Users) are financially responsible for emergency costs. You further agree to respond responsibly and in a good faith manner during such emergency situations.</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">10. Third-Party Services, Links.</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">The Platform may provide access to or rely on services operated by third parties, including but not limited to payment processors, veterinary directories, mapping integrations, and verification partners. These services are not controlled by ThePawffy and you acknowledge and agree that:</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">•	Third-party tools or services are subjected to their own usage terms and data policies.</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">•	The Platform does not endorse, monitor, or guarantee the availability, accuracy, security, or performance of such third-party offerings.</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">•	Use of third-party tools is at your responsibility. The Platform is not responsible for their performance or outcomes, losses, damages, or any issues arising from your interactions with or reliance on third-party providers.</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">11. Account Security.</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">You must keep your login details confidential and notify us immediately in case of any suspicious unauthorized access or data compromise.</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">12. Privacy.</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">We collect, store, and process personal and business related information in accordance with applicable privacy laws.</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">Please refer to our Privacy Policy to learn more.</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">Your use of the Platform signifies your consent to the collection and use of information as described.</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">13. Vendor Representations and Warranties.</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">As a vendor, you represent and warrant that you:</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">•	Are legally authorized to offer the services listed on the Platform;</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">•	Hold all necessary licenses, permits, and insurance required by law;</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">•	provided Information on the Platform is accurate and current;</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">•	Agree to deliver services in a professional, safe, and ethically responsible manner;</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">•	Comply with all governing laws and regulatory requirements;</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">•	Acknowledge that non-compliance with these obligations may result in immediate suspension or termination of your account, without advance notice.</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">14. Disclaimer of Warranties.</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">THE PLATFORM, INCLUDING ALL FEATURES AND SERVICES, IS OFFERED WITHOUT ANY GUARANTEES OR PROMISES OF ANY KIND. TO THE EXTENT PERMITTED BY LAW, ALL EXPRESS, IMPLIED, AND STATUTORY WARRANTIES ARE DISCLAIMED, INCLUDING ANY WARRANTIES OF PERFORMANCE, FITNESS, MERCHANTABILITY, OR NON-INFRINGEMENT.</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">15. Limitation of Liability.</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">To the maximum extent permitted under applicable law, ThePawffy shall not be held liable for any indirect, incidental, special, consequential, punitive, or exemplary damages, including, without limitation, damages for loss of profits, data, goodwill, or other intangible losses, arising out of or in connection with your use of the Platform or the services provided.</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">In no case shall ThePawffy’s total cumulative liability to you exceed the total amount of fees, if any, that you paid to ThePawffy in the twelve (12) months prior to the event that gave rise to the claim.</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">16. Indemnity.</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">You agree to indemnify, defend, and hold harmless ThePawffy, its parent entity, affiliates, officers, directors, employees, and representatives from any legal actions, third-party claims, damages, fines, or other financial burdens that may arise in connection with:</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">•	Your use of the Platform as a vendor;</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">•	Any services you provide to Users;</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">•	Your failure to comply with applicable laws, regulatory requirements, or the rights of third parties;</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">•	Any breach of these Terms or your representations herein.</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">17. Review and Feedback Policy.</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">The Platform may allow users to leave reviews or ratings regarding vendor services. Your use of the Platform confirms that you acknowledge and agree to the following:</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">•	ThePawffy reserves the right to display, moderate, filter, or remove reviews at its sole discretion.</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">•	You shall not manipulate, falsify, incentivize, or suppress user feedback.</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">•	Retaliation against users for providing reviews is strictly prohibited.</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">•	You may respond to reviews professionally and respectfully but not demand changes from users.</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">•	Reviews do not reflect ThePawffy’s views and are the sole opinions of the User.</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">•	ThePawffy is not liable for the content or consequences of such feedback.</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">18. Governing Law and Dispute Resolution.</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">These Terms, and any dispute, claim, or controversy arising out of or relating to your role as a vendor on ThePawffy Platform, including but not limited to registration, use of services, content submissions, payments, or performance of services shall be governed by and construed in accordance with the laws of the State of Texas, without regard to any conflict of law provisions.</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">Prior to initiating formal proceedings, both you and ThePawffy agree to first attempt in good faith to resolve any dispute through informal discussions. If such discussions fail to resolve the matter within thirty (30) days, the dispute shall be resolved exclusively through final and binding arbitration administered by a nationally recognized arbitration provider in accordance with its then-current Commercial Arbitration Rules.</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">Arbitration shall be conducted in Harris County, Texas, before a single impartial arbitrator. The arbitrator’s decision will be final and binding on both parties and may be enforced in any court having appropriate jurisdiction.</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">By agreeing to these Terms, you and ThePawffy expressly waive the right to a jury trial and agree that any arbitration shall proceed solely on an individual basis. You further waive any right to participate in a class action, class arbitration, or any consolidated or representative proceeding of any kind.</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">This does not preclude either party from seeking emergency or equitable relief in a court of competent jurisdiction to prevent immediate or irreparable harm.</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">19. Class Action Waiver.</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">You agree to resolve any dispute with ThePawffy or ITDesks solely on an individual basis. You agree not to pursue or participate in any class, group, or representative action whether in court or arbitration. Any claim must be pursued separately and may not be combined with those of other individuals.</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">20. Notice to the Texas Vendors.</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">If you reside in, operate from, or provide services within Texas, you acknowledge that all activities conducted through ThePawffy are considered to occur within the State of Texas for legal and regulatory purposes. Any dispute arising from your Vendor use of the Platform will be governed by Texas law and subject to the arbitration terms in Section 18. You also agree to the jurisdiction of the courts in Harris County, Texas, for enforcing arbitration outcomes or injunctive relief, and hereby waive any objections related to venue.</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">21. General.</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">ThePawffy may, at its discretion, help facilitate communication or assist with dispute resolution between Users and Vendors. However, ThePawffy is under no obligation to mediate, issue refunds, or enforce Vendor policies unless required by applicable law.</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">22. The Pawffy’s Right to Content and Technology.</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">All content, branding elements, features, and technology made available through ThePawffy are the sole property of ThePawffy and are protected under applicable U.S. laws. Use of the Platform’s features, code, or content without our written approval, including copying, altering, or reverse engineering is strictly prohibited</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">23. Independent Vendor Disclaimer.</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">ThePawffy does not endorse or guarantee any Vendor, Pet Owner, service quality, safety, or compatibility. Background checks are performed to the extent allowed by law but do not replace personal vetting.</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">24. Copyright Infringement and Notice.</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">ThePawffy respects the proprietary rights of others and expects all vendors who use and access our platform to do the same. If you believe your copyrighted material has been used on the Platform without permission, you must submit a written notice that includes:</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">•	Your full name</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">•	Contact information;</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">•	A description of the copyrighted work in question;</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">•	A clear reference to the allegedly infringing content and its location on the Platform;</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">•	A statement that you believe with certainty, the use is unauthorized;</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">•	A legally binding declaration, under penalty of perjury, confirming the accuracy of your claim and your authority to represent the owner of the rights;</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">•	A physical or electronic signature from you or your authorized representative</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">To send DMCA Notice, contact us at:</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">(Email)</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">ThePawffy Legal Compliance Team [Insert full mailing address]</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">ThePawffy complies with the DMCA and responds in a timely manner to verified takedown requests.</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">25. No Copyright License or Waiver.</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">Nothing in these Terms shall be interpreted as granting any license or right to use any proprietary materials of ThePawffy or its licensors except as expressly provided. Any unauthorized use of such materials may result in suspension or termination of access to the Platform, and may be prosecuted under applicable law.</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">26. Modifications.</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">These Terms may be revised periodically, and your continued use of the Platform, signifies your acceptance of any changes. Updates will be posted with the revised effective date. Material changes will be notified through email or in-app notice.</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">By continuing to use the platform, you acknowledge and accept these Terms.</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">27. Severability.</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">If any provision of these Terms is determined to be invalid, illegal, or unenforceable under applicable law, that provision shall be modified or limited to the extent necessary to make it enforceable. The remainder of these Terms will remain valid and in full effect.</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">28. Entire Agreement.</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">These Terms, along with our Privacy Policy, represent the entire understanding between you and ThePawffy. No oral or written statements outside these documents will alter or modify them unless in writing and signed by both parties.</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">29. Contact Information.</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">For legal notices or questions, contact us at:</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">(Phone Number) legal@thepawffyapp.com ThePawffy Legal Compliance Team</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">Address: 5900 Balcones Drive</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">STE</p>
-          <p className="mb-4 text-gray-700 leading-relaxed">Austin, TX 78731</p>
+        <h1 className="text-3xl font-bold mb-8 text-slate-800 border-b pb-4">ThePawffy Terms and Conditions</h1>
+        <div className="prose max-w-none text-left space-y-4 text-gray-700">
+          <p className="font-semibold text-gray-900">Effective Date: October 1, 2026</p>
+          <p>These Terms and Conditions ("Terms") govern your access to and use of ThePawffy website, mobile applications, marketplace, communications, features, products, and services.</p>
+          <p>ThePawffy is operated by Ganapati & Rani Investment LLC, doing business as ThePawffy ("ThePawffy," "Company," "we," "us," or "our").</p>
+          <p>By creating an account, accessing or using ThePawffy, purchasing goods or services through the platform, registering as a vendor or service provider, or otherwise using our services, you agree to these Terms and our Privacy Policy.</p>
+          <p>If you do not agree with these Terms, do not use ThePawffy.</p>
+
+          <h2 className="text-xl font-bold mt-6 text-gray-900">1. Eligibility</h2>
+          <p>You must be at least 18 years old and legally capable of entering into a binding agreement to create an account, make purchases, sell products, provide services, or register as a vendor on ThePawffy.</p>
+          <p>By using ThePawffy, you represent that the information you provide is accurate and that you have authority to agree to these Terms.</p>
+
+          <h2 className="text-xl font-bold mt-6 text-gray-900">2. User Accounts</h2>
+          <p>Certain features may require an account. You are responsible for:</p>
+          <ul className="list-disc pl-6 space-y-1">
+            <li>Providing accurate and current information.</li>
+            <li>Maintaining the confidentiality of your login credentials.</li>
+            <li>Protecting access to your phone number and email account.</li>
+            <li>All activity conducted through your account.</li>
+            <li>Promptly notifying ThePawffy of suspected unauthorized access.</li>
+          </ul>
+          <p>You may not create accounts using false identities or impersonate another person, organization, business, rescue organization, veterinary provider, or vendor.</p>
+          <p>ThePawffy may suspend, restrict, or terminate accounts that violate these Terms, create security concerns, engage in fraud or abuse, or otherwise pose a risk to the platform or its users.</p>
+
+          <h2 className="text-xl font-bold mt-6 text-gray-900">3. ThePawffy Platform</h2>
+          <p>ThePawffy may provide features relating to pets, pet owners, businesses, products, services, vendors, community interactions, account management, communications, and other pet-related activities.</p>
+          <p>Features may change, be added, restricted, suspended, or discontinued at any time.</p>
+          <p>Unless specifically stated otherwise, ThePawffy provides a technology platform connecting users with independent vendors and service providers.</p>
+          <p>ThePawffy is not automatically the seller, manufacturer, veterinarian, groomer, trainer, boarding provider, transportation provider, insurer, rescue organization, or other service provider merely because a transaction or interaction occurs through the platform.</p>
+
+          <h2 className="text-xl font-bold mt-6 text-gray-900">4. Vendors and Service Providers</h2>
+          <p>A "Vendor" includes any person, business, professional, merchant, contractor, organization, or service provider that offers goods or services through ThePawffy.</p>
+          <p>By registering as a Vendor, you represent and warrant that:</p>
+          <ul className="list-disc pl-6 space-y-1">
+            <li>You have authority to conduct the business represented.</li>
+            <li>All information you provide is accurate and current.</li>
+            <li>You possess all licenses, permits, certifications, registrations, insurance, and approvals required by applicable law.</li>
+            <li>Your products and services are lawful and accurately described.</li>
+            <li>Your pricing, availability, qualifications, policies, and other listing information are accurate.</li>
+            <li>You will comply with all applicable consumer-protection, animal-welfare, tax, employment, privacy, advertising, and professional requirements.</li>
+            <li>You will not make misleading, deceptive, or unsupported claims.</li>
+            <li>You will provide services with reasonable skill, care, professionalism, and safety.</li>
+            <li>You are responsible for the conduct of your employees, contractors, representatives, and agents.</li>
+          </ul>
+          <p>ThePawffy may request documentation verifying a Vendor's identity, business registration, insurance, credentials, licensing, or other qualifications. Failure to provide requested documentation may result in suspension or removal.</p>
+
+          <h2 className="text-xl font-bold mt-6 text-gray-900">5. Independent Vendor Relationship</h2>
+          <p>Vendors are independent businesses and are not employees, agents, representatives, partners, franchisees, or joint venturers of ThePawffy.</p>
+          <p>Nothing in these Terms creates an employment, agency, partnership, fiduciary, or joint-venture relationship between ThePawffy and any Vendor.</p>
+          <p>Vendors control the manner in which they perform their services, subject to applicable laws and platform requirements.</p>
+          <p>Vendors are solely responsible for their employees, contractors, payroll, insurance, benefits, taxes, licenses, and regulatory obligations.</p>
+
+          <h2 className="text-xl font-bold mt-6 text-gray-900">6. Vendor Products and Services</h2>
+          <p>Vendors are responsible for all products or services they advertise, sell, provide, deliver, or arrange through ThePawffy.</p>
+          <p>ThePawffy does not independently guarantee:</p>
+          <ul className="list-disc pl-6 space-y-1">
+            <li>Product quality.</li>
+            <li>Vendor qualifications.</li>
+            <li>Service results.</li>
+            <li>Availability.</li>
+            <li>Pricing.</li>
+            <li>Safety.</li>
+            <li>Accuracy of Vendor representations.</li>
+            <li>Compliance with professional standards.</li>
+            <li>Suitability of a product or service for a particular pet.</li>
+          </ul>
+          <p>ThePawffy may remove listings or Vendors when appropriate but is not obligated to independently investigate every Vendor or transaction.</p>
+
+          <h2 className="text-xl font-bold mt-6 text-gray-900">7. Orders, Purchases, and Payments</h2>
+          <p>Users may have the ability to purchase goods or services through ThePawffy.</p>
+          <p>Prices, taxes, service charges, delivery charges, commissions, platform fees, and other applicable charges may be displayed before checkout.</p>
+          <p>Payments may be processed by third-party payment processors. By submitting payment information, you authorize the applicable charges and represent that you are authorized to use the selected payment method.</p>
+          <p>ThePawffy does not control the internal operations, security, availability, or policies of third-party payment processors.</p>
+
+          <h2 className="text-xl font-bold mt-6 text-gray-900">8. Vendor Fees and Commissions</h2>
+          <p>ThePawffy may charge Vendors subscription fees, transaction fees, commissions, advertising fees, processing fees, service fees, or other charges.</p>
+          <p>Applicable fees may be described in the Vendor dashboard, onboarding materials, order details, separate Vendor agreement, or current fee schedule.</p>
+          <p>Unless otherwise required by law, applicable platform fees may be deducted from payments otherwise payable to Vendors.</p>
+          <p>ThePawffy may change its fee structure prospectively upon reasonable notice.</p>
+
+          <h2 className="text-xl font-bold mt-6 text-gray-900">9. Taxes</h2>
+          <p>Vendors are responsible for determining and satisfying their own tax obligations, including income, sales, use, franchise, employment, and other applicable taxes unless ThePawffy is legally required to collect or remit a particular tax.</p>
+          <p>Users are responsible for taxes applicable to their purchases where permitted by law.</p>
+          <p>Nothing provided by ThePawffy constitutes tax advice.</p>
+
+          <h2 className="text-xl font-bold mt-6 text-gray-900">10. Cancellations, Refunds, and Chargebacks</h2>
+          <p>Cancellation and refund eligibility may depend on:</p>
+          <ul className="list-disc pl-6 space-y-1">
+            <li>The product or service purchased.</li>
+            <li>Vendor policies.</li>
+            <li>Timing of cancellation.</li>
+            <li>Whether the product was delivered.</li>
+            <li>Whether services were performed.</li>
+            <li>Applicable law.</li>
+          </ul>
+          <p>Vendor-specific cancellation or refund terms may be displayed during booking or checkout.</p>
+          <p>ThePawffy may investigate disputed transactions, suspected fraud, excessive chargebacks, or misuse of refund procedures.</p>
+          <p>ThePawffy may recover amounts from a Vendor when a refund, chargeback, adjustment, penalty, or reversal results from the Vendor's conduct, products, services, representations, or failure to fulfill an order.</p>
+          <p>Nothing in these Terms eliminates rights that cannot legally be waived under applicable consumer-protection law.</p>
+
+          <h2 className="text-xl font-bold mt-6 text-gray-900">11. Pet Health and Veterinary Disclaimer</h2>
+          <p>Content available through ThePawffy is provided for general informational purposes unless expressly provided by a properly licensed professional acting within the scope of a professional relationship.</p>
+          <p>ThePawffy does not provide veterinary diagnosis, veterinary treatment, medical advice, or emergency veterinary services merely by operating the platform.</p>
+          <p>Do not rely on general platform content as a substitute for professional veterinary care. If a pet appears to be experiencing a medical emergency, contact a veterinarian or emergency veterinary facility immediately.</p>
+          <p>Users remain responsible for decisions concerning the health, safety, treatment, transportation, feeding, housing, and care of their animals.</p>
+
+          <h2 className="text-xl font-bold mt-6 text-gray-900">12. Vendor Professional Advice</h2>
+          <p>A Vendor offering veterinary, behavioral, training, grooming, nutritional, boarding, transportation, or other professional pet-related services is responsible for determining whether the Vendor may legally provide those services.</p>
+          <p>Any professional relationship is between the user and the applicable Vendor.</p>
+          <p>ThePawffy does not guarantee any particular outcome from a Vendor's recommendations or services.</p>
+
+          <h2 className="text-xl font-bold mt-6 text-gray-900">13. User Content</h2>
+          <p>Users and Vendors may be permitted to submit photographs, videos, reviews, listings, descriptions, comments, messages, pet information, logos, or other material ("User Content").</p>
+          <p>You retain ownership of your User Content.</p>
+          <p>By submitting User Content to ThePawffy, you grant ThePawffy a non-exclusive, worldwide, royalty-free license to host, store, reproduce, display, distribute, format, and otherwise use that content as reasonably necessary to operate, promote, secure, and improve the platform.</p>
+          <p>You represent that you have the rights necessary to submit the content.</p>
+          <p>You may not upload content that:</p>
+          <ul className="list-disc pl-6 space-y-1">
+            <li>Infringes intellectual-property rights.</li>
+            <li>Violates privacy or publicity rights.</li>
+            <li>Is fraudulent or deceptive.</li>
+            <li>Contains unlawful threats or harassment.</li>
+            <li>Promotes illegal conduct.</li>
+            <li>Contains malicious software.</li>
+            <li>Misrepresents an animal, product, service, business, or professional qualification.</li>
+          </ul>
+
+          <h2 className="text-xl font-bold mt-6 text-gray-900">14. Reviews and Ratings</h2>
+          <p>Users may be permitted to review Vendors, products, or services. Reviews must reflect genuine experiences.</p>
+          <p>The following are prohibited:</p>
+          <ul className="list-disc pl-6 space-y-1">
+            <li>Fake reviews.</li>
+            <li>Paid reviews that are not properly disclosed.</li>
+            <li>Reviews submitted to manipulate ratings.</li>
+            <li>Threatening a Vendor or user to obtain compensation.</li>
+            <li>Reviews containing unlawful or irrelevant personal information.</li>
+          </ul>
+          <p>ThePawffy may moderate or remove reviews that violate these Terms.</p>
+
+          <h2 className="text-xl font-bold mt-6 text-gray-900">15. Prohibited Conduct</h2>
+          <p>You may not:</p>
+          <ul className="list-disc pl-6 space-y-1">
+            <li>Use ThePawffy for illegal activity.</li>
+            <li>Commit fraud or payment abuse.</li>
+            <li>Misrepresent your identity or qualifications.</li>
+            <li>Attempt unauthorized access to accounts or systems.</li>
+            <li>Scrape or harvest data without authorization.</li>
+            <li>Introduce malware or harmful code.</li>
+            <li>Interfere with platform operation.</li>
+            <li>Circumvent security controls.</li>
+            <li>Abuse promotions, refunds, reviews, or referral programs.</li>
+            <li>Sell prohibited, counterfeit, stolen, unsafe, or illegal products.</li>
+            <li>Use the platform to facilitate animal cruelty, neglect, illegal breeding, illegal animal sales, or other unlawful conduct.</li>
+            <li>Harass, threaten, exploit, or discriminate against another user.</li>
+            <li>Use another person's personal information without authorization.</li>
+          </ul>
+
+          <h2 className="text-xl font-bold mt-6 text-gray-900">16. Intellectual Property</h2>
+          <p>ThePawffy and its software, trademarks, logos, designs, graphics, interfaces, databases, text, and other proprietary materials are owned by or licensed to Ganapati & Rani Investment LLC.</p>
+          <p>These Terms do not transfer ownership of ThePawffy's intellectual property to you.</p>
+          <p>You may not copy, reproduce, reverse engineer, distribute, resell, or commercially exploit proprietary ThePawffy materials except where expressly authorized.</p>
+
+          <h2 className="text-xl font-bold mt-6 text-gray-900">17. SMS Verification and Messaging Terms</h2>
+          <p>ThePawffy SMS Program is operated by Ganapati & Rani Investment LLC dba ThePawffy.</p>
+          <p>ThePawffy may send SMS messages for:</p>
+          <ul className="list-disc pl-6 space-y-1">
+            <li>Account registration.</li>
+            <li>Login authentication.</li>
+            <li>One-time passcodes.</li>
+            <li>Phone-number verification.</li>
+            <li>Account recovery.</li>
+            <li>Fraud prevention.</li>
+            <li>Account security.</li>
+          </ul>
+          <p>These messages are transactional and security-related unless you separately provide consent to another type of messaging.</p>
+          <p>Message frequency varies based on user activity. Message and data rates may apply.</p>
+          <p>Consent to receive SMS messages is not a condition of purchasing goods or services except where a mobile verification message is reasonably required for account authentication or security.</p>
+          <p>Reply STOP to opt out. Reply HELP for help.</p>
+          <p>For additional assistance, contact ThePawffy through the support information provided on our website.</p>
+          <p>Carriers are not liable for any delayed or undelivered messages. Wireless carriers are not responsible for the content of messages sent by ThePawffy. Delivery is subject to effective transmission by your mobile carrier and is not guaranteed.</p>
+          <p>Your mobile number and SMS consent are handled in accordance with our <a href="/privacy-policy" className="text-blue-600 hover:underline">Privacy Policy</a>.</p>
+          <p>ThePawffy does not sell or share SMS opt-in data or personal information with third parties for marketing purposes.</p>
+
+          <h2 className="text-xl font-bold mt-6 text-gray-900">18. Marketing Communications</h2>
+          <p>Transactional account-security SMS consent does not constitute consent to receive marketing or promotional SMS communications.</p>
+          <p>If ThePawffy introduces promotional SMS programs, users will be provided a separate opportunity to expressly consent where required.</p>
+
+          <h2 className="text-xl font-bold mt-6 text-gray-900">19. Electronic Communications</h2>
+          <p>You consent to receive account-related electronic communications from ThePawffy, including communications through email, in-app notifications, or other permitted electronic channels.</p>
+          <p>Certain communications may be legally required and may continue even if you disable optional notifications.</p>
+
+          <h2 className="text-xl font-bold mt-6 text-gray-900">20. Third-Party Services</h2>
+          <p>ThePawffy may integrate with third-party services such as:</p>
+          <ul className="list-disc pl-6 space-y-1">
+            <li>Payment processors.</li>
+            <li>Mapping providers.</li>
+            <li>Authentication providers.</li>
+            <li>Communications providers.</li>
+            <li>Analytics providers.</li>
+            <li>Cloud-hosting providers.</li>
+            <li>Vendor websites.</li>
+          </ul>
+          <p>Third-party products and services are governed by their own terms and privacy practices. ThePawffy is not responsible for third-party systems that it does not control.</p>
+
+          <h2 className="text-xl font-bold mt-6 text-gray-900">21. Platform Availability</h2>
+          <p>We aim to provide reliable service but do not guarantee that ThePawffy will always be uninterrupted, secure, error-free, or available.</p>
+          <p>Maintenance, technical failures, cybersecurity incidents, telecommunications failures, vendor outages, governmental actions, or circumstances beyond our reasonable control may affect service.</p>
+
+          <h2 className="text-xl font-bold mt-6 text-gray-900 uppercase">22. Disclaimer of Warranties</h2>
+          <p className="uppercase font-semibold">TO THE MAXIMUM EXTENT PERMITTED BY LAW, THEPAWFFY AND ITS SERVICES ARE PROVIDED "AS IS" AND "AS AVAILABLE."</p>
+          <p className="uppercase font-semibold">GANAPATI & RANI INVESTMENT LLC DISCLAIMS WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, AND OTHER WARRANTIES TO THE MAXIMUM EXTENT PERMITTED BY LAW.</p>
+          <p className="uppercase font-semibold">WE DO NOT GUARANTEE THAT:</p>
+          <ul className="list-disc pl-6 space-y-1 uppercase font-semibold">
+            <li>EVERY VENDOR WILL MEET A USER'S EXPECTATIONS.</li>
+            <li>EVERY LISTING WILL BE ACCURATE.</li>
+            <li>EVERY SERVICE WILL PRODUCE A PARTICULAR RESULT.</li>
+            <li>EVERY PRODUCT WILL BE SUITABLE FOR A PARTICULAR PET.</li>
+            <li>THE PLATFORM WILL OPERATE WITHOUT INTERRUPTION OR ERROR.</li>
+          </ul>
+          <p>Nothing in this section excludes a warranty that cannot legally be excluded.</p>
+
+          <h2 className="text-xl font-bold mt-6 text-gray-900 uppercase">23. Limitation of Liability</h2>
+          <p className="uppercase font-semibold">TO THE MAXIMUM EXTENT PERMITTED BY LAW, GANAPATI & RANI INVESTMENT LLC, THEPAWFFY, AND THEIR OWNERS, OFFICERS, EMPLOYEES, CONTRACTORS, AND AFFILIATES WILL NOT BE LIABLE FOR INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, CONSEQUENTIAL, OR PUNITIVE DAMAGES ARISING FROM OR RELATED TO USE OF THE PLATFORM.</p>
+          <p className="uppercase font-semibold">THIS INCLUDES, WHERE PERMITTED BY LAW, LOSS ARISING FROM:</p>
+          <ul className="list-disc pl-6 space-y-1 uppercase font-semibold">
+            <li>VENDOR CONDUCT.</li>
+            <li>USER CONDUCT.</li>
+            <li>PET INJURY.</li>
+            <li>PROPERTY DAMAGE.</li>
+            <li>LOST PROFITS.</li>
+            <li>LOST DATA.</li>
+            <li>SERVICE INTERRUPTION.</li>
+            <li>THIRD-PARTY PRODUCTS OR SERVICES.</li>
+            <li>UNAUTHORIZED ACCOUNT ACCESS.</li>
+          </ul>
+          <p className="uppercase font-semibold">TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE COMPANY'S AGGREGATE LIABILITY ARISING FROM THE SERVICES WILL NOT EXCEED THE GREATER OF: <br/>(A) THE AMOUNT YOU PAID DIRECTLY TO THEPAWFFY DURING THE SIX MONTHS BEFORE THE EVENT GIVING RISE TO THE CLAIM; OR <br/>(B) $100.</p>
+          <p>Some jurisdictions do not permit certain liability limitations, so portions of this section may not apply to you.</p>
+
+          <h2 className="text-xl font-bold mt-6 text-gray-900">24. Vendor Indemnification</h2>
+          <p>To the extent permitted by law, Vendors agree to defend, indemnify, and hold harmless Ganapati & Rani Investment LLC, ThePawffy, and their owners, officers, employees, affiliates, and representatives from third-party claims, losses, damages, penalties, liabilities, and reasonable legal costs arising from:</p>
+          <ul className="list-disc pl-6 space-y-1">
+            <li>The Vendor's products.</li>
+            <li>The Vendor's services.</li>
+            <li>Injury caused by the Vendor.</li>
+            <li>Vendor employees or contractors.</li>
+            <li>Vendor misrepresentations.</li>
+            <li>Regulatory violations.</li>
+            <li>Failure to hold required licensing or insurance.</li>
+            <li>Intellectual-property infringement.</li>
+            <li>Taxes owed by the Vendor.</li>
+            <li>Violation of these Terms.</li>
+          </ul>
+
+          <h2 className="text-xl font-bold mt-6 text-gray-900">25. User Indemnification</h2>
+          <p>To the extent permitted by law, users agree to indemnify and hold harmless ThePawffy from third-party claims arising from:</p>
+          <ul className="list-disc pl-6 space-y-1">
+            <li>Their unlawful use of the platform.</li>
+            <li>Fraudulent activity.</li>
+            <li>Content they submit.</li>
+            <li>Their violation of another person's rights.</li>
+            <li>Their material violation of these Terms.</li>
+          </ul>
+
+          <h2 className="text-xl font-bold mt-6 text-gray-900">26. Suspension and Termination</h2>
+          <p>ThePawffy may suspend or terminate access where reasonably necessary because of:</p>
+          <ul className="list-disc pl-6 space-y-1">
+            <li>Fraud.</li>
+            <li>Safety concerns.</li>
+            <li>Legal or regulatory requirements.</li>
+            <li>Payment abuse.</li>
+            <li>Repeated complaints.</li>
+            <li>Material violations of these Terms.</li>
+            <li>Threats to platform security.</li>
+            <li>Vendor credential issues.</li>
+            <li>Animal welfare concerns.</li>
+          </ul>
+          <p>Where appropriate, ThePawffy may investigate before taking action. Termination does not eliminate obligations that accrued before termination.</p>
+
+          <h2 className="text-xl font-bold mt-6 text-gray-900">27. Dispute Resolution</h2>
+          <p>Before filing a formal legal claim, you agree to make a reasonable attempt to resolve the dispute by contacting ThePawffy.</p>
+          <p>Either party may provide written notice describing the dispute and requested resolution. The parties will attempt in good faith to resolve the matter informally for at least 30 days before pursuing formal proceedings, except where emergency injunctive relief is reasonably necessary.</p>
+
+          <h2 className="text-xl font-bold mt-6 text-gray-900">28. Arbitration and Class Action Waiver — United States</h2>
+          <p><strong>PLEASE READ THIS SECTION CAREFULLY.</strong></p>
+          <p>Except for claims eligible for small-claims court or claims seeking appropriate injunctive relief concerning intellectual-property misuse or unauthorized system access, disputes arising from these Terms or use of ThePawffy will, to the extent permitted by law, be resolved through binding individual arbitration rather than a jury trial.</p>
+          <p>Arbitration will be administered under applicable consumer or commercial arbitration rules depending on the nature of the dispute. Claims must be brought individually.</p>
+          <p>To the extent permitted by law, you and Ganapati & Rani Investment LLC waive the right to participate in a class, collective, consolidated, or representative action.</p>
+          <p>You may opt out of this arbitration provision by sending written notice to ThePawffy within 30 days after first accepting these Terms. Your notice must identify your account and clearly state that you are opting out of arbitration.</p>
+          <p>This section does not prevent either party from bringing an eligible claim in small-claims court.</p>
+
+          <h2 className="text-xl font-bold mt-6 text-gray-900">29. Governing Law</h2>
+          <p>These Terms are governed by the laws of the State of Texas, without regard to conflict-of-law rules, except where federal law or another jurisdiction's mandatory consumer law applies.</p>
+          <p>For disputes not subject to arbitration, the parties consent to appropriate state or federal courts in Texas having lawful jurisdiction over the dispute.</p>
+
+          <h2 className="text-xl font-bold mt-6 text-gray-900">30. Changes to These Terms</h2>
+          <p>ThePawffy may update these Terms from time to time. If changes are material, we may provide notice through the website, application, email, or other appropriate means.</p>
+          <p>The updated Effective Date will appear at the top of these Terms. Your continued use of the services following an effective update constitutes acceptance to the extent permitted by law.</p>
+
+          <h2 className="text-xl font-bold mt-6 text-gray-900">31. Assignment</h2>
+          <p>You may not assign your rights or obligations under these Terms without written authorization from ThePawffy. ThePawffy may assign these Terms in connection with a merger, acquisition, restructuring, sale of assets, financing, or similar business transaction.</p>
+
+          <h2 className="text-xl font-bold mt-6 text-gray-900">32. Severability</h2>
+          <p>If any provision of these Terms is found invalid or unenforceable, the remaining provisions will continue in effect to the fullest extent permitted by law.</p>
+
+          <h2 className="text-xl font-bold mt-6 text-gray-900">33. No Waiver</h2>
+          <p>Failure by ThePawffy to enforce a provision of these Terms does not waive our right to enforce it later.</p>
+
+          <h2 className="text-xl font-bold mt-6 text-gray-900">34. Entire Agreement</h2>
+          <p>These Terms, together with our Privacy Policy and any additional terms expressly presented for a particular feature, transaction, Vendor program, or service, constitute the agreement governing use of ThePawffy.</p>
+          <p>If Vendor-specific written terms conflict with these general Terms, the Vendor-specific terms control only as to the subject matter covered by those terms.</p>
+
+          <h2 className="text-xl font-bold mt-6 text-gray-900">35. Contact Information</h2>
+          <div className="bg-gray-50 p-4 rounded-md">
+            <p className="font-semibold text-gray-900">Ganapati & Rani Investment LLC dba ThePawffy</p>
+            <p>Website: <a href="https://www.thepawffy.com" className="text-blue-600 hover:underline">https://www.thepawffy.com</a></p>
+            <p>Support Email: <a href="mailto:SUPPORT@THEPAWFFY.COM" className="text-blue-600 hover:underline">SUPPORT@THEPAWFFY.COM</a></p>
+            <p>Privacy Policy: <a href="/privacy-policy" className="text-blue-600 hover:underline">https://www.thepawffy.com/privacy-policy</a></p>
+          </div>
         </div>
       </motion.div>
     </div>
